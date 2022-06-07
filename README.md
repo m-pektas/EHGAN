@@ -1,5 +1,4 @@
 # EHGAN
 Efficient Hair Style Transfer with Generative Adversarial Networks
 
-
-Code and other materyals will be uploaded next months !!
+As per company policy, code and other materials will be uploaded in the next months.
